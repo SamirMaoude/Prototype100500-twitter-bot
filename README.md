@@ -1,6 +1,6 @@
 ## About The Project
 
-[@prototype100500](https://twitter.com/prototyoe100500)
+[@prototype100500](https://twitter.com/prototype100500)
 
 Simple Twitter bot in python!
 
